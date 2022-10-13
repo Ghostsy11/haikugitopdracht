@@ -14,10 +14,10 @@ def HaikuX():
     print("And persimmons.")
 
     def HaikuX(): 
-    print("haiku by:","AUTHOR") 
-    print("The wren ") 
-    print("Earns his living ") 
-    print("Noiselessly.")
+    print("haiku by:","Natsume Soseki") 
+    print("Over the wintry ") 
+    print("forest, winds howl in rage") 
+    print("with no leaves to blow.")
 
 
 
