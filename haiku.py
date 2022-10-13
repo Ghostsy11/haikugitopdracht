@@ -1,6 +1,11 @@
 
 
 #plak hier de haiku functions onder elkaar
+def HaikuX(): 
+    print("haiku by:","AUTHOR") 
+    print("The wren ") 
+    print("Earns his living ") 
+    print("Noiselessly.")
 
 
 
