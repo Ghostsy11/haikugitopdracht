@@ -2,11 +2,22 @@
 
 #plak hier de haiku functions onder elkaar
 def HaikuX(): 
-    print("haiku by:","AUTHOR") 
+    print("haiku by:","Kobayahsi Issa") 
     print("The wren ") 
     print("Earns his living ") 
     print("Noiselessly.")
 
+def HaikuX(): 
+    print("haiku by:","Masaoaka Shiki") 
+    print("Consider me ") 
+    print("As one who loved poetry") 
+    print("And persimmons.")
+
+    def HaikuX(): 
+    print("haiku by:","AUTHOR") 
+    print("The wren ") 
+    print("Earns his living ") 
+    print("Noiselessly.")
 
 
 
